@@ -3,3 +3,4 @@ results/checkpoint-441/model.safetensors
 results/checkpoint-441/optimizer.pt
 results/scheduler.ptresults/trainer_state.json
 results/training_args.bin
+results/model.safetensors
