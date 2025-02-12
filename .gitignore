@@ -1,1 +1,3 @@
 env/
+results/checkpoint-441/model.safetensors
+results/checkpoint-441/optimizer.pt
